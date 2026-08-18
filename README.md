@@ -18,8 +18,6 @@ Python • PyTorch • OpenCV • Transformers • DINOv2 • Stable Diffusion
 **Tools:**
 Git • GitHub • Postman • Expo • Google Colab • Kaggle
 
----
-
 ## 🚀 Featured Projects
 
 ### 🏺 ANUBIS — AI-Powered Egyptian Artifact Platform
@@ -51,13 +49,9 @@ Interactive data-analysis project transforming raw data into insights through an
 
 **Tech:** Excel • Data Analysis • Data Visualization
 
----
-
 ## 📚 Other Experience
 
 I have also worked on projects involving **Flutter mobile development, weather/API applications, C++ simulations, Arduino, databases, and software engineering coursework**.
-
----
 
 ## 📫 Connect With Me
 
